@@ -1,1 +1,3 @@
 # fcc-student-database-part1
+
+freecodecamp workshop on creating database on students' details, making bash script and using it to fill the database
